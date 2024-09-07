@@ -1,3 +1,4 @@
+<!--
 ---
 page_type: sample
 languages:
@@ -7,6 +8,7 @@ products:
 - azure
 - azure-communication-services
 ---
+-->
 
 # ACS Calling Tutorial
 
